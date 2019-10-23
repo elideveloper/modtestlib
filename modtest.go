@@ -1,5 +1,5 @@
 package modtestlib
 
 func ModTest() string {
-	return "call FromMod test func"
+	return "call from ModTest func"
 }
